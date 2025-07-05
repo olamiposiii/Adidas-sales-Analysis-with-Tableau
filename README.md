@@ -1,9 +1,5 @@
 # 🌟 Adidas-Sales-Analysis: Unraveling the Secrets of Adidas' Sales Success 📊
 
-## Snippet: ![Final Dashboard (3)](https://github.com/prayagpadwal/Adidas-Sales-Analysis/assets/65147413/6eac0c20-1533-42e5-81e6-60d65bf5f814)
-
-
-
 ## 📌 KEY FINDINGS:
 
 🚀 **Revenue Growth:** In a challenging market environment, Adidas soared with an 80% increase in revenue compared to the previous year, reaching a staggering 717,821,450. This impressive growth is credited to successful product launches, strong brand equity, and dynamic marketing strategies.
